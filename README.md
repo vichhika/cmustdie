@@ -1,5 +1,6 @@
 # Xi must die
 
+``
 Xi must die
 The C language is one of the most influential programming languages ​​in history. It has become an indispensable tool for developing operating systems, displacing assembly languages ​​from this pedestal. Learning C is a must for any self-respecting programmer. This language is loved for its external simplicity and hated for its ruthlessness to errors. Thanks to him, we have the Linux kernel and thousands of vulnerabilities in it to boot. Let's try to understand what is this contradictory C language - a blessing or a curse?
 
@@ -362,3 +363,5 @@ The authors express their gratitude to Andrei Viktorovich Stolyarov for his crit
 
 Nikita Orlov exegete
 Alexey Veresov aversey
+
+``
